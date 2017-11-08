@@ -1,4 +1,4 @@
-# Choicebakery : Just For Practice
+# Choicebakery : Just For Practice &amp; FUN 😉
 
 Template for Bakery using CSS3, Bootstrap, Animate.css, font-awesome, jQuery &amp; wow.js
 
