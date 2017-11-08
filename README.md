@@ -1,6 +1,6 @@
 # Choicebakery : Just For Practice &amp; FUN 😉
 
-Template for Bakery using CSS3, Bootstrap, Animate.css, font-awesome, jQuery &amp; wow.js
+Template for Bakery using CSS3, Bootstrap, Animate.css, font-awesome, jQuery plugins &amp; wow.js
 
 ### Set Up
 There is no need to set up. I already download all essential .js and .css file locally and store in CSS and JS folder.
